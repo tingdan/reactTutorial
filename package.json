@@ -20,5 +20,5 @@
     "eject": "react-scripts eject",
     "deploy" : "npm run build&&gh-pages -d build"
   },
-  "homepage": "https://tingdan.github.io/RunningTracker/"
+  "homepage": "https://tingdan.github.io/ReactTutorial/"
 }
